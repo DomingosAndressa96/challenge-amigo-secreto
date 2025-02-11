@@ -24,3 +24,6 @@ O foco principal foi a implementação da lógica em **JavaScript** e utilizando
 - **HTML** - Estrutura da aplicação  
 
 ## Vídeo demonstrativo
+
+https://github.com/user-attachments/assets/4e10c978-054a-43b1-b09f-8e009bcf805e
+
