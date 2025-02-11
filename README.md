@@ -22,3 +22,5 @@ O foco principal foi a implementação da lógica em **JavaScript** e utilizando
 
 - **JavaScript** - Implementação da lógica do sorteio  
 - **HTML** - Estrutura da aplicação  
+
+## Vídeo demonstrativo
